@@ -1,3 +1,1 @@
-README
-Makefile
-Search.java
+Searches for a target word in a file of words separated by new lines. Returns the line number of the target word.
